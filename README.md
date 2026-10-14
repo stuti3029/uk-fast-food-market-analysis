@@ -27,19 +27,19 @@ A global view of systemwide sales, store network scale, share of the *brands com
 
 ### Page 2 — Greggs UK growth and city analysis
 
-![Greggs UK growth analysis](images/02_greggs_growth.png)
+![Greggs UK growth analysis](images/02_greggs_growth.jpeg)
 
 Examines historical UK revenue, changes in store footprint, city-level estimates and geographical concentration. City-level revenue numbers require separate source and calculation validation before being represented as actual company-reported results.
 
 ### Page 3 — UK fast-food market comparison
 
-![UK fast-food market comparison](images/03_uk_market_comparison.png)
+![UK fast-food market comparison](images/03_uk_market_comparison.jpeg)
 
 Compares UK revenue trajectories, estimated outlet networks, transaction values and per-store performance. Revenue definitions and the treatment of franchised locations can differ by brand.
 
 ### Page 4 — Growth scenarios
 
-![Scenario-based growth analysis](images/04_scenario_analysis.png)
+![Scenario-based growth analysis](images/04_scenario_analysis.jpeg)
 
 Explores baseline projections and illustrative interventions, including transaction-value improvement and drive-thru expansion. **These are scenario exercises, not predictions or committed financial guidance.**
 

@@ -21,7 +21,7 @@ The central business question is: **Can Greggs narrow the revenue gap with McDon
 
 ### Page 1 — Global comparison
 
-![Global fast-food comparison](images/01_global_comparison.png)
+![Global fast-food comparison](images/01_global_comparison.jpeg)
 
 A global view of systemwide sales, store network scale, share of the *brands compared in the dataset*, and revenue-efficiency indicators. Market-share values here should not be mistaken for shares of the entire global restaurant market.
 

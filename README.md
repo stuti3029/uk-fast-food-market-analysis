@@ -65,8 +65,8 @@ Explores baseline projections and illustrative interventions, including transact
 
 ## Files
 
-- `images/` — four dashboard-page screenshots.
-- `dashboard/` — Power BI report (`.pbix`), where available.
+- [`images/`](images/) — four dashboard-page screenshots.
+- [`dashboard/`](dashboard/) — Power BI report (`.pbix`), where available.
 - [`documentation/data_sources.md`](documentation/data_sources.md) — source-provenance checklist, metric definitions, scenario assumptions and comparability cautions.
 
 ## Limitations and responsible use
